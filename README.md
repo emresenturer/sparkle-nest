@@ -1,18 +1,17 @@
-# Maidenic
+# SparkleNest
 
-Maidenic connects you directly with trusted, background-checked residential cleaning professionals across the USA and Canada — no middleman, no hidden fees.
+SparkleNest connects homeowners directly with trusted, background-checked residential cleaning professionals across the USA and Canada. No middleman, no hidden fees.
+
+**Live MVP:** [sparkle-nest-pro.base44.app](https://sparkle-nest-pro.base44.app/)
 
 ## Concept
 
 - Direct booking with vetted residential cleaners
 - Background-checked professionals
 - Transparent pricing, no hidden fees
+- Booking and messaging in one place
 - USA and Canada coverage
-
-## Live MVP
-
-[sparkle-nest-pro.base44.app](https://sparkle-nest-pro.base44.app/)
 
 ## Status
 
-Early concept and MVP stage. This repo tracks the product definition; the live MVP is currently built on base44. By [Emre Senturer](https://github.com/emresenturer).
+MVP stage. The live app is built on [base44](https://base44.com); this repo tracks the product definition. Developed under the working name Maidenic. By [Emre Senturer](https://github.com/emresenturer).
